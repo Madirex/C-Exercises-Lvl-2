@@ -2,7 +2,7 @@ Exercise
 
         Assignment name  : ft_strrev
         Expected files   : ft_strrev.c
-        Allowed functions:
+        Allowed functions: None
         --------------------------------------------------------------------------------
 
         Write a function that reverses (in-place) a string.

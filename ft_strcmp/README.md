@@ -2,7 +2,7 @@ Exercise
 
         Assignment name  : ft_strcmp
         Expected files   : ft_strcmp.c
-        Allowed functions:
+        Allowed functions: None
         --------------------------------------------------------------------------------
 
         Reproduce the behavior of the function strcmp (man strcmp).
