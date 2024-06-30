@@ -17,7 +17,7 @@ int main(int argc, char **argv)
 {
     int             i = 0;
     int             j = 0;
-    char            printed[256];
+    char            printed[256] = {0};
     unsigned int    p_len = 0;
     if (argc == 3)
     {
