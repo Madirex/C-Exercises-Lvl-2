@@ -2,7 +2,7 @@ Exercise
 
         Assignment name  : reverse_bits
         Expected files   : reverse_bits.c
-        Allowed functions:
+        Allowed functions: None
         --------------------------------------------------------------------------------
 
         Write a function that takes a byte, reverses it, bit by bit (like the
